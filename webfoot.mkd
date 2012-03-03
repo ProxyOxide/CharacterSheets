@@ -1,0 +1,65 @@
+Webfoot
+========
+"Can somebody please get me off this no-technology mudball"
+
+* Real name: Rizan Mantish
+* Occupation: Splicer
+* Physical: Tynnan male age 24
+* Objective: Find adventure in ghe galaxy and not be stuck on a backwards farm planet.
+* Background: Needed to disappear for a while and hid out on backwater agricultural world. Then ships stopped coming, so when one showed up, he HAD to get on it.
+
+## Dexterity: 2D+2
+* Blaster
+* Dodge: 3D
+* Pickpocket: 3D
+* Running
+
+## Knowledge: 3D+2
+* Business
+* Streetwise
+* Value
+
+## Mechanical: 2D
+* Repulsorlift Operations
+* Sensors: 3D
+* Swoop operation
+
+## Perception: 3D+2
+* Bargain
+* Con: 4D
+* Forgery
+* Hide
+* Sneak
+
+## Strength: 2D
+* Climb/Jump
+* Lifting
+* Stamina
+* Swimming
+
+
+## Technical: 4D
+* Computer Program/Repair: 5D+2
+* Droid Programming
+* Droid Repair: 5D
+* Repulsorlift Repair
+* Security: 6D
+
+## Equipment
+* Street clothing
+* DataSim holoprojector
+* Electronic lockpicking kit
+* Hold-out blaster 3D
+
+## Other
+
+* Move: 8
+* Force points: 1
+* Force sensitive: No
+* Character points: 6
+* Status: Healthy
+
+## 044 Credits
+
+
+
