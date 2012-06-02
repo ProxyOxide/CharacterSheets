@@ -38,6 +38,6 @@
 42 EXP
 
 25 to Eerie research
-47 to Cryptography
+64 to Cryptography
 
 Asila	
