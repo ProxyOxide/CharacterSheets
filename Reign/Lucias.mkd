@@ -1,0 +1,43 @@
+1 Body
+1 Strength
+4 Dexterity
+1 Stamina
+4 Appearance
+
+6 Sanity
+6 Logic
+7 Cunning
+5 Willpower
+5 Charisma
+
+3 Heroics
+
+1 Discovery
+
+1 Vigor
+2 Stealth
+5/3/0 Eerie
+4 Empathy
+4 Scrutinize
+6 Grace
+3 Lie
+2 Haggle
+2 Intimidate
+3 Language
+4/0/4 Merchant
+4/3/3 Espiongage
+|-Posion
+|-Cryptography
+10 points
+
+3 Status
+1 Lucky
+5 Followers
+6 Wealth
+
+42 EXP
+
+25 to Eerie research
+64 to Cryptography
+
+Asila	
