@@ -1,0 +1,95 @@
+# Kweku Okoro (2Cool)
+
+* Male Wakyambi 24yrs
+* Lifestyle: Low
+* Total karma: 484
+* Current unspent karma: 4
+
+## Attributes
+### Physical 
+* Agility: 5
+* Body: 5
+* Reaction: 4
+* Strength: 3
+
+### Mental
+* Charisma: 7
+* Intuition: 4
+* Logic: 5
+* Willpower: 4
+
+### Special
+* Edge: 3
+* Essence: 6
+* Initiative: 3
+* Magic/Res: 0
+
+### Derived
+* Current Edge: 3
+* Astral Init: N/A
+* Matrix Init: 
+* Init Passes: 
+* Composure: 
+* Judge Intent: 
+* Lift/Carry:
+* Memory:
+
+## Qualities
+* Low Light Vision
+* Elongated Limbs
+* Celerity
+* Local Fame
+* Juryrigger
+* Day Job (Radio DJ: 20hr)
+
+##Skills 
+### Electronics: 3
+* Computer
+* Data Search
+* Hardware
+* Software
+
+### Stealth: 3
+* Disguise
+* Infiltration
+* Palming
+* Shadowing
+
+### Influence: 3
+* Con
+* Ettiquite
+* Leadership
+* Negotiation
+
+### Close Combat: 2
+* Blades
+* Clubs
+* Unarmed Combat
+
+###Other
+* Electronic Warfare (LOG): 4
+
+## Knowledge Skills
+* Afrikans:  Native
+* English: 2
+* Streetwise: 2
+
+## Gear
+* Stun baton 
+* Katana 
+* Survival knife 
+* Fichette Security 
+* Erika Elite 
+* Low 1 months 
+* 200 bullets 
+* Satellite link 
+* Magnadyne Deva 
+
+## Contacts
+* Embedded battlefield journo (Connection: 2, Loyalty: 3)
+* Info broker: red side (Connection: 3, Loyalty: 2)
+
+## Status
+* Nuyen: 2850
+* Stun Damage: 4
+
