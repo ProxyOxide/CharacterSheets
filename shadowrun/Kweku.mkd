@@ -90,6 +90,6 @@
 * Info broker: red side (Connection: 3, Loyalty: 2)
 
 ## Status
-* Nuyen: 2850
+* Nuyen: 2800
 * Stun Damage: 4
 
