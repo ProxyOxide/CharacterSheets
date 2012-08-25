@@ -84,12 +84,13 @@
 * 200 bullets 
 * Satellite link 
 * Magnadyne Deva 
+* One holochip with sattelite accounts and an encrypted file  
 
 ## Contacts
 * Embedded battlefield journo (Connection: 2, Loyalty: 3)
 * Info broker: red side (Connection: 3, Loyalty: 2)
 
 ## Status
-* Nuyen: 2100
+* Nuyen: 2080
 * Stun Damage: 4
 
