@@ -71,8 +71,8 @@
 
 ## Knowledge Skills
 * Afrikans:  Native
-* English: 2
-* Streetwise: 2
+* English: 4
+* Streetwise: 3
 
 ## Gear
 * Stun baton 
