@@ -40,7 +40,7 @@
 * Celerity
 * Local Fame
 * Juryrigger
-* Day Job (Radio DJ: 20hr)
+* Day Job (Radio DJ: 20hr) 2500 nuyen per month x3 (local fame)
 
 ##Skills 
 ### Electronics: 3
@@ -84,7 +84,8 @@
 * 200 bullets 
 * Satellite link 
 * Magnadyne Deva 
-* One holochip with sattelite accounts and an encrypted file  
+* One holochip with sattelite accounts and an encrypted file * gave to
+  new friend * 
 
 ## Contacts
 * Embedded battlefield journo (Connection: 2, Loyalty: 3)
