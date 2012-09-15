@@ -37,7 +37,6 @@ Webfoot
 * Stamina
 * Swimming
 
-
 ## Technical: 4D
 * Computer Program/Repair: 5D+2
 * Droid Programming
@@ -52,11 +51,10 @@ Webfoot
 * Hold-out blaster 3D
 
 ## Other
-
 * Move: 8
 * Force points: 1
 * Force sensitive: No
-* Character points: 10
+* Character points: 13
 * Status: Healthy
 
 ## 044 Credits
