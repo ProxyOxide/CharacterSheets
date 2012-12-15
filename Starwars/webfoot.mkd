@@ -49,6 +49,7 @@ Webfoot
 * DataSim holoprojector
 * Electronic lockpicking kit
 * Hold-out blaster 3D
+* One otter-size space suit
 
 ## Other
 * Move: 8
@@ -57,4 +58,4 @@ Webfoot
 * Character points: 18
 * Status: Healthy
 
-## 1044 Credits
+## 294 Credits
