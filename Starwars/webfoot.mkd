@@ -55,7 +55,7 @@ Webfoot
 * Move: 8
 * Force points: 1
 * Force sensitive: No
-* Character points: 18
+* Character points: 22
 * Status: Healthy
 
 ## 294 Credits
