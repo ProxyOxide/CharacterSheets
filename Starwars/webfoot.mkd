@@ -38,7 +38,7 @@ Webfoot
 * Swimming
 
 ## Technical: 4D
-* Computer Program/Repair: 5D+2
+* Computer Program/Repair: 6D + 1
 * Droid Programming
 * Droid Repair: 5D
 * Repulsorlift Repair
@@ -56,7 +56,7 @@ Webfoot
 * Move: 8
 * Force points: 1
 * Force sensitive: No
-* Character points: 21
+* Character points: 10
 * Status: Healthy
 
 ## 294 Credits
