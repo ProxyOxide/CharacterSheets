@@ -54,7 +54,7 @@ Webfoot
 
 ## Other
 * Move: 8
-* Force points: 1
+* Force points: 0
 * Force sensitive: No
 * Character points: 10
 * Status: Healthy
