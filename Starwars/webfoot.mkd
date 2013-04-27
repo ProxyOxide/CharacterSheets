@@ -7,6 +7,7 @@ Webfoot
 * Physical: Tynnan male age 24
 * Objective: Find adventure in ghe galaxy and not be stuck on a backwards farm planet.
 * Background: Needed to disappear for a while and hid out on backwater agricultural world. Then ships stopped coming, so when one showed up, he HAD to get on it.
+* 5 pups with Dazzlefin (I think he was drunk)
 
 ## Dexterity: 2D+2
 * Blaster
@@ -56,7 +57,7 @@ Webfoot
 * Move: 8
 * Force points: 1
 * Force sensitive: No
-* Character points: 14
+* Character points: 16
 * Status: Healthy
 
-## 294 Credits
+## 144 Credits
