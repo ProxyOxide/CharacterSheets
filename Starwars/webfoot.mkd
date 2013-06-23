@@ -60,4 +60,4 @@ Webfoot
 * Character points: 20
 * Status: Healthy
 
-## 144 Credits
+## 114 Credits
