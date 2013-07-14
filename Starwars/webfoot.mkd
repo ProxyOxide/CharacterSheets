@@ -43,7 +43,7 @@ Webfoot
 * Droid Programming
 * Droid Repair: 5D
 * Repulsorlift Repair
-* Security: 6D
+* Security: 6D + 2
 
 ## Equipment
 * Street clothing
@@ -57,7 +57,7 @@ Webfoot
 * Move: 8
 * Force points: 1
 * Force sensitive: No
-* Character points: 17
+* Character points: 5
 * Status: Healthy
 
 ## 114 Credits
