@@ -51,7 +51,6 @@ Webfoot
 * Electronic lockpicking kit
 * Hold-out blaster 3D
 * One otter-size space suit
-* 7D imperial seneors data core
 
 ## Other
 * Move: 8
