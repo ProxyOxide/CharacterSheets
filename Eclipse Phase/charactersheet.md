@@ -10,13 +10,13 @@ Faction: Lunar (+10 to 1 language, +20 networking: Hypercorps, +10 networking: E
 
 | Aptitude          | Base Value | Current Morph |
 | :---------------- | :--------- | :------------ |
-| Cognition(COG)    | 25         |               |
+| Cognition(COG)    | 25         | 35            |
 | Coordination(COO) | 10         |               |
-| Intuition(INT)    | 25         |               |
+| Intuition(INT)    | 25         | 30            |
 | Reflexes(REF)     | 14         |               |
-| Savvy(SAV)        | 14         |               |
-| Somatics(SOM)     | 10         |               |
-| Willpower(WIL)    | 17         |               |
+| Savvy(SAV)        | 14         | 19            |
+| Somatics(SOM)     | 10         | 20            |
+| Willpower(WIL)    | 17         | 23            |
 
 ## Derived Stats
 
@@ -38,38 +38,44 @@ Faction: Lunar (+10 to 1 language, +20 networking: Hypercorps, +10 networking: E
 
 ## Active Skills
 
-* Fray(REF): 60
-* Perception(INT): 60
-* Hardware\[Electronics\] (COG): 80
-* Infosec(COG) : 80
-* Interfacing(COG) : 50
-* Networking\[Firewall\] (SAV): 40
-* Networking\[Hypercorps\] (SAV) : 40
-* Networking\[Ecologists\] (SAV): 40
-* Programming (COG): 60
-* Scrounging (INT): 60
-* Free Fall (REF): 36
-* Kinetic Weapons (COO): 40
-* Beam Weapons (COO): 40
+| Linked | Skill                            | Base | Enhanced                  |
+| :----- | :------------------------------- | :--- | :------------------------ |
+| REF    | Fray                             | 60   |                           |
+| INT    | Perception                       | 60   |                           |
+| COG    | Hardware\[Electronics\]          | 80   |                           |
+| COG    | Infosec                          | 80   |                           |
+| COG    | Interfacing                      | 50   |                           |
+| SAV    | Networking\[Firewall\]           | 40   |                           |
+| SAV    | Networking\[Hypercorps\]         | 40   |                           |
+| SAV    | Networking\[Ecologists\]         | 40   |                           |
+| COG    | Programming                      | 60   |                           |
+| INT    | Scrounging                       | 60   |                           |
+| REF    | Free Fall                        | 36   |                           |
+| COO    | Kinetic Weapons                  | 40   |                           |
+| COO    | Beam Weapons                     | 40   |                           |
+|        |                                  |      |                           |
 
 ## Knowledge Skills
 
-* Academics\[Computer Science\] 50
-* Academics\[Cryptography\] 55
-* Academics\[Mathematics\] 40
-* Interest\[Open Source\] 60
-* Interest\[Hacking Groups\] 70
-* Interest\[Reclamation\] 70
-* Profession\[Security ops\] 50
-* Language\[Japanese\] 50
-* Langauge\[Native Hindi\] 90
-* Language\[English\] 65
+| Linked | Skill                            | Base | Enhanced                  |
+| :----- | :------------------------------- | :--- | :------------------------ |
+| COG    | Academics\[Comp Sci\]            | 50   |                           |
+| COG    | Academics\[Cryptography\]        | 55   |                           |
+| COG    | Academics\[Mathematics\]         | 40   |                           |
+| COG    | Interest\[Open Source\]          | 60   |                           |
+| COG    | Interest\[Hacking Groups\]       | 70   |                           |
+| COG    | Interest\[Reclamation\]          | 70   |                           |
+| COG    | Profession\[Security ops\]       | 50   |                           |
+| INT    | Language\[Japanese\]             | 50   |                           |
+| INT    | Language\[Native Hindi\]         | 90   |                           |
+| INT    | Language\[English\]              | 65   |                           |
+|        |                                  |      |                           |
 
 ## Reputation
 
-* i-rep: 40
-* c-rep: 10
-* e-rep: 20
+| i  | c  |  e |
+| :- | :- | :- |
+| 40 | 10 | 20 |
 
 ## Morph
 
