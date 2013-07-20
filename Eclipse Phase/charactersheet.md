@@ -106,7 +106,7 @@ Faction: Lunar (+10 to 1 language, +20 networking: Hypercorps, +10 networking: E
 * Software: encryption
 * Medium Pistol
 * 100 Rounds Regular pistol ammunition
-* 100 Rounds Jammer pistol ammunition
+* Light vacsuit
 
 ## Credits
 
