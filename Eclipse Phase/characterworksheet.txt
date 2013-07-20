@@ -1,0 +1,52 @@
+1000 points
+
+add 5 more moxie = 75
+add 5 each to COG and INT = 100
+
+175 PTZ
+
+Skills:
+Fray (A REF 14) 60 [46]
+Perception (A INT 25) 60 [35]
+Hardware[Electronics] (A COG 25) 80 [75]
+Infosec (A COG 25) 80 [75]
+Interfacing (A COG 25) 50 [25]
+Networking[Firewall] (A SAV 14) 40 [16]
+Networking[Hypercorps] (A SAV 14) 40 [06]
+Networking[Ecologists] (A SAV 14) 40 [16]
+Programming (A COG 25) 60 [35]
+Scrounging (A INT 25) 60 [35]
+Free Fall (A REF 14) 36 [22]
+Kinetic Weapons (A COO 10) 40 [30] 
+Beam Weapons (A COO 10)  40 [30]
+
+446 PTZ
+
+Academics[Computer Science] (K COG 25) 50 [25] 
+Academics[Cryptography] (K COG 25) 55 [30]
+Academics[Mathematics] (K COG 25) 40 [15]
+Interest[Open Source] (K COG 25)  60 [35]
+Interest[Hacking Groups](K COG 25) 70 [55]
+Interest[Reclamation] (K COG 25) 70 [55]
+Profession[Security Ops] (K COG 25) 50 [25]
+Language[Japanese](K INT 25) 50 [25]
+Language[English](K INT 25 +10) 65 [35]
+Language(Native)[Hindi](K INT) 90 == FREE
+300 PTZ in knowledge skills
+
+remade morph = 60CP
+Common Sense = 10CP
+7000 credits = 7CP
+20 rep = 2CP
+
+MUSE: FREE
+Backup Insurance 1 month: FREE
+Spoof: 1000
+Exploit: 5000
+Cryptography: 250
+Medium Pistol: 250
+100 RD standard pistol ammunition: 50
+100 RD Jammer pistol ammunition: 250
+
+With 200 credits left over
+
