@@ -81,6 +81,23 @@ Faction: Lunar (+10 to 1 language, +20 networking: Hypercorps, +10 networking: E
 
 * Type: Remade
 
+### Implants
+
+* Basic Biomods
+* Basic Mesh Inserts
+* Circadian Regulation
+* Clean Metabolisim
+* Cortical Stack
+* Eidetic Memory
+* Enhanced Respiration
+* Temperature Tolerence
+* Toxin Filters
+
+## Traits
+
+* Edited Memories (missing a big chunk (3 weeks after re-instantiation)
+* Uncanny Valley (-10 on social tests with humans)
+
 ## Gear
 * Muse
 * Backup Insurance (1 Month)
