@@ -73,9 +73,9 @@ Faction: Lunar (+10 to 1 language, +20 networking: Hypercorps, +10 networking: E
 
 ## Reputation
 
-| i  | c  |  e |
-| :- | :- | :- |
-| 40 | 10 | 20 |
+| i   | c   |  e  |
+| :-- | :-- | :-- |
+| 40  | 10  | 20  |
 
 ## Morph
 
