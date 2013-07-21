@@ -1,10 +1,15 @@
-# Eclipse phase character
+# Darshak Shukla
 
-Concept: Hacker/techie with chip on shoulder about whole titan thing, wants to find a weakness in the machines, wants to make humanity/himself stronger, wants to get earth back.
+Hacker/techie with HUGE chip on shoulder about whole titan thing, wants to find a weakness in the machines, wants to make humanity/himself stronger, wants to get earth back.
+
+* Nickname: Mr. Kindness, 
+* Firewall Alias: Solar wind
 
 Background: Re-instantiated (+10 pilot groundcraft +10 to one networking field, +2 moxie, edited memories, 0 starting credit)
 
 Faction: Lunar (+10 to 1 language, +20 networking: Hypercorps, +10 networking: Ecologists)
+
+Been on one mission with firewall.
 
 ## Aptitudes
 
@@ -25,31 +30,38 @@ Faction: Lunar (+10 to 1 language, +20 networking: Hypercorps, +10 networking: E
 | Lucidity          | 28         |               |
 | Trauma Threshold  | 6          |               |
 | Insanity Rating   | 56         |               |
-| Initiative        | 78         |               |
+| Initiative        | 7          | 9             |
 | Damage Bonus      | 1          |               |
 | Death Rating      | 60         |               |
 | Speed             | 1          |               |
+
+## Damage
+
+| Damage | Wounds | Stress | Trauma |
+| :----- | :----- | :----- | :----- |
+| 23     | 2      |        |        |
+|        |        |        |        |
 
 ## Moxie
 
 | Max | Current |
 | :-- | :------ |
-| 8   | 8       |
+| 8   | 7       |
 
 ## Active Skills
 
 | Linked | Skill                            | Base | Enhanced                  |
 | :----- | :------------------------------- | :--- | :------------------------ |
 | REF    | Fray                             | 60   |                           |
-| INT    | Perception                       | 60   |                           |
-| COG    | Hardware\[Electronics\]          | 80   |                           |
-| COG    | Infosec                          | 80   |                           |
-| COG    | Interfacing                      | 50   |                           |
+| INT    | Perception                       | 60   | 65                        |
+| COG    | Hardware\[Electronics\]          | 80   | 90                        |
+| COG    | Infosec                          | 80   | 90                        |
+| COG    | Interfacing                      | 50   | 60                        |
 | SAV    | Networking\[Firewall\]           | 40   |                           |
 | SAV    | Networking\[Hypercorps\]         | 40   |                           |
 | SAV    | Networking\[Ecologists\]         | 40   |                           |
-| COG    | Programming                      | 60   |                           |
-| INT    | Scrounging                       | 60   |                           |
+| COG    | Programming                      | 60   | 70                        |
+| INT    | Scrounging                       | 60   | 65                        |
 | REF    | Free Fall                        | 36   |                           |
 | COO    | Kinetic Weapons                  | 40   |                           |
 | COO    | Beam Weapons                     | 40   |                           |
@@ -59,16 +71,16 @@ Faction: Lunar (+10 to 1 language, +20 networking: Hypercorps, +10 networking: E
 
 | Linked | Skill                            | Base | Enhanced                  |
 | :----- | :------------------------------- | :--- | :------------------------ |
-| COG    | Academics\[Comp Sci\]            | 50   |                           |
-| COG    | Academics\[Cryptography\]        | 55   |                           |
-| COG    | Academics\[Mathematics\]         | 40   |                           |
-| COG    | Interest\[Open Source\]          | 60   |                           |
-| COG    | Interest\[Hacking Groups\]       | 70   |                           |
-| COG    | Interest\[Reclamation\]          | 70   |                           |
-| COG    | Profession\[Security ops\]       | 50   |                           |
-| INT    | Language\[Japanese\]             | 50   |                           |
-| INT    | Language\[Native Hindi\]         | 90   |                           |
-| INT    | Language\[English\]              | 65   |                           |
+| COG    | Academics\[Comp Sci\]            | 50   | 60                        |
+| COG    | Academics\[Cryptography\]        | 55   | 65                        |
+| COG    | Academics\[Mathematics\]         | 40   | 50                        |
+| COG    | Interest\[Open Source\]          | 60   | 70                        |
+| COG    | Interest\[Hacking Groups\]       | 70   | 80                        |
+| COG    | Interest\[Reclamation\]          | 70   | 80                        |
+| COG    | Profession\[Security ops\]       | 50   | 60                        |
+| INT    | Language\[Japanese\]             | 50   | 55                        |
+| INT    | Language\[Native Hindi\]         | 90   | 55                        |
+| INT    | Language\[English\]              | 65   | 55                        |
 |        |                                  |      |                           |
 
 ## Reputation
@@ -77,9 +89,12 @@ Faction: Lunar (+10 to 1 language, +20 networking: Hypercorps, +10 networking: E
 | :-- | :-- | :-- |
 | 40  | 10  | 20  |
 
-## Morph
+## Morph: Remade
 
-* Type: Remade
+| Aptitude Max | Speed Mod | Movement Rate      | Durability | Wound Threshold | 
+| :----------- | :-------- | :----------------- | :--------- | :-------------- | 
+| 40           |           |                    | 40         | 8               | 
+|              |           |                    |            |                 | 
 
 ### Implants
 
@@ -105,7 +120,7 @@ Faction: Lunar (+10 to 1 language, +20 networking: Hypercorps, +10 networking: E
 * Software: exploit
 * Software: encryption
 * Medium Pistol
-* 100 Rounds Regular pistol ammunition
+* 99 Rounds Regular pistol ammunition
 * Light vacsuit
 
 ## Credits
@@ -118,4 +133,8 @@ Faction: Lunar (+10 to 1 language, +20 networking: Hypercorps, +10 networking: E
 * +Reclaiming Earth
 * +Lost Souls
 
+## RES
+
+* Total : 3
+* Current : 3
 
