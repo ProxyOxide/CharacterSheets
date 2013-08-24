@@ -122,10 +122,11 @@ Been on one mission with firewall.
 * Medium Pistol
 * 99 Rounds Regular pistol ammunition
 * Light vacsuit
+* Basic services with extropia
 
 ## Credits
 
-200
+100
 
 ## Motivation
 
