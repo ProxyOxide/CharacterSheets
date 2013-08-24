@@ -89,6 +89,8 @@ Been on one mission with firewall.
 | :-- | :-- | :-- |
 | 40  | 10  | 20  |
 
+Used Moderate favor: Refresh in 1 week.
+
 ## Morph: Remade
 
 | Aptitude Max | Speed Mod | Movement Rate      | Durability | Wound Threshold | 
@@ -123,6 +125,7 @@ Been on one mission with firewall.
 * 99 Rounds Regular pistol ammunition
 * Light vacsuit
 * Basic services with extropia
+* Vac-proof smart cloting
 
 ## Credits
 
