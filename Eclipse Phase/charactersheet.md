@@ -39,7 +39,7 @@ Been on one mission with firewall.
 
 | Damage | Wounds | Stress | Trauma |
 | :----- | :----- | :----- | :----- |
-| 23     | 2      |        |        |
+| 23     | 2      | 2      |        |
 |        |        |        |        |
 
 ## Moxie
