@@ -15,13 +15,13 @@ Been on one mission with firewall.
 
 | Aptitude          | Base Value | Current Morph |
 | :---------------- | :--------- | :------------ |
-| Cognition(COG)    | 25         | 35            |
-| Coordination(COO) | 10         |               |
-| Intuition(INT)    | 25         | 30            |
+| Cognition(COG)    | 25         | 30            |
+| Coordination(COO) | 10         | 15            |
+| Intuition(INT)    | 25         |               |
 | Reflexes(REF)     | 14         |               |
-| Savvy(SAV)        | 14         | 19            |
-| Somatics(SOM)     | 10         | 20            |
-| Willpower(WIL)    | 17         | 23            |
+| Savvy(SAV)        | 14         |               |
+| Somatics(SOM)     | 10         | 15            |
+| Willpower(WIL)    | 17         |               |
 
 ## Derived Stats
 
@@ -30,9 +30,9 @@ Been on one mission with firewall.
 | Lucidity          | 28         |               |
 | Trauma Threshold  | 6          |               |
 | Insanity Rating   | 56         |               |
-| Initiative        | 7          | 9             |
-| Damage Bonus      | 1          |               |
-| Death Rating      | 60         |               |
+| Initiative        | 7          | 8             |
+| Damage Bonus      | XX         | 9             |
+| Death Rating      | XX         | 90            |
 | Speed             | 1          |               |
 
 ## Damage
@@ -95,20 +95,17 @@ Used Moderate favor: Refresh in 1 week.
 
 | Aptitude Max | Speed Mod | Movement Rate      | Durability | Wound Threshold | 
 | :----------- | :-------- | :----------------- | :--------- | :-------------- | 
-| 40           |           |                    | 40         | 8               | 
+| 30           |           |                    | 45         | 9               | 
 |              |           |                    |            |                 | 
 
 ### Implants
 
-* Basic Biomods
+* Access Jacks
 * Basic Mesh Inserts
-* Circadian Regulation
-* Clean Metabolisim
 * Cortical Stack
-* Eidetic Memory
-* Enhanced Respiration
-* Temperature Tolerence
-* Toxin Filters
+* Cyberbrain
+* Enhanced Vision
+* Mnemonic Augmentation
 
 ## Traits
 
