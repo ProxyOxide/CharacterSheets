@@ -53,34 +53,34 @@ Been on one mission with firewall.
 | Linked | Skill                            | Base | Enhanced                  |
 | :----- | :------------------------------- | :--- | :------------------------ |
 | REF    | Fray                             | 60   |                           |
-| INT    | Perception                       | 60   | 65                        |
-| COG    | Hardware\[Electronics\]          | 80   | 90                        |
-| COG    | Infosec                          | 80   | 90                        |
-| COG    | Interfacing                      | 50   | 60                        |
+| INT    | Perception                       | 60   |                           |
+| COG    | Hardware\[Electronics\]          | 80   | 85                        |
+| COG    | Infosec                          | 80   | 85                        |
+| COG    | Interfacing                      | 50   | 55                        |
 | SAV    | Networking\[Firewall\]           | 40   |                           |
 | SAV    | Networking\[Hypercorps\]         | 40   |                           |
 | SAV    | Networking\[Ecologists\]         | 40   |                           |
-| COG    | Programming                      | 60   | 70                        |
-| INT    | Scrounging                       | 60   | 65                        |
+| COG    | Programming                      | 60   |                           |
+| INT    | Scrounging                       | 60   |                           |
 | REF    | Free Fall                        | 36   |                           |
-| COO    | Kinetic Weapons                  | 40   |                           |
-| COO    | Beam Weapons                     | 40   |                           |
+| COO    | Kinetic Weapons                  | 40   | 45                        |
+| COO    | Beam Weapons                     | 40   | 45                        |
 |        |                                  |      |                           |
 
 ## Knowledge Skills
 
 | Linked | Skill                            | Base | Enhanced                  |
 | :----- | :------------------------------- | :--- | :------------------------ |
-| COG    | Academics\[Comp Sci\]            | 50   | 60                        |
-| COG    | Academics\[Cryptography\]        | 55   | 65                        |
-| COG    | Academics\[Mathematics\]         | 40   | 50                        |
-| COG    | Interest\[Open Source\]          | 60   | 70                        |
-| COG    | Interest\[Hacking Groups\]       | 70   | 80                        |
-| COG    | Interest\[Reclamation\]          | 70   | 80                        |
-| COG    | Profession\[Security ops\]       | 50   | 60                        |
-| INT    | Language\[Japanese\]             | 50   | 55                        |
-| INT    | Language\[Native Hindi\]         | 90   | 55                        |
-| INT    | Language\[English\]              | 65   | 55                        |
+| COG    | Academics\[Comp Sci\]            | 50   |  55                       |
+| COG    | Academics\[Cryptography\]        | 55   |  60                       |
+| COG    | Academics\[Mathematics\]         | 40   |  45                       |
+| COG    | Interest\[Open Source\]          | 60   |  65                       |
+| COG    | Interest\[Hacking Groups\]       | 70   |  75                       |
+| COG    | Interest\[Reclamation\]          | 70   |  75                       |
+| COG    | Profession\[Security ops\]       | 50   |  55                       |
+| INT    | Language\[Japanese\]             | 50   |                           |
+| INT    | Language\[Native Hindi\]         | 90   |                           |
+| INT    | Language\[English\]              | 65   |                           |
 |        |                                  |      |                           |
 
 ## Reputation
