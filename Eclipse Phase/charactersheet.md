@@ -31,7 +31,7 @@ Been on one mission with firewall.
 | Trauma Threshold  | 6          |               |
 | Insanity Rating   | 56         |               |
 | Initiative        | 7          | 8             |
-| Damage Bonus      | XX         | 9             |
+| Damage Bonus      | 1          | 1             |
 | Death Rating      | XX         | 90            |
 | Speed             | 1          |               |
 
