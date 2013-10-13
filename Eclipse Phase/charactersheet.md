@@ -89,7 +89,9 @@ Been on one mission with firewall.
 | :-- | :-- | :-- |
 | 40  | 10  | 20  |
 
-Used Moderate favor: Refresh in 1 week.
+Used Moderate favor with firewall: Refresh in 1 week.
+Used low favor with firewall: Refresh tomorrow
+Used Moderate eco favor: Refresh in 1 week
 
 ## Morph: Remade
 
